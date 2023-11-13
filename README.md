@@ -6,10 +6,11 @@ Instalacion:
 
 Encender el servidor
 1. Abrir xampp y prender "Apache" y "MySQL"
-2. importar el archivo "clientes.sql"
-3. En visual Abrir una terminar
-4. Escribir "cd Database"
-5. Escribir "node dbFunctions.js"
+2. crear una db con nombre "clientes"
+3. importar el archivo "clientes.sql"
+4. En visual Abrir una terminar
+5. Escribir "cd Database"
+6. Escribir "node dbFunctions.js"
 
 Encender el cliente
 1. Abrir una terminal
